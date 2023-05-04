@@ -1,1 +1,1 @@
-# da lekce
+# Lekce GITu
